@@ -45,7 +45,7 @@
 
     <rule ref="PSR2.ControlStructures"/>
     <rule ref="PSR2.Files"/>
-    <rule ref="PSR2.Methods"/>
+    <!--<rule ref="PSR2.Methods"/>-->
     <rule ref="PSR2.Namespaces"/>
 
 </ruleset>
